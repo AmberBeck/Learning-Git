@@ -7,3 +7,5 @@ Hello World!
 Hi Amber!
 
 Again, Hello World!
+
+Trying out the branch function.
